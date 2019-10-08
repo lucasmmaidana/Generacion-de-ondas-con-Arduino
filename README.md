@@ -1,5 +1,5 @@
 # Waveform generation with Arduino
-Generación de ondas seno, cuadrada y triangular con período controlada con sensor potenciómetro.
+Generación de ondas seno, cuadrada y triangular con período controlado por sensor potenciómetro.
 Sine, square and triangle waves with perdiod regulation through a potentiometer.
 Arduino UNO.
 
